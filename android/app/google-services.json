@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "639657738891",
+    "project_id": "marcaa-e31c9",
+    "storage_bucket": "marcaa-e31c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639657738891:android:ab0ce0630efc3016b3ca8e",
+        "android_client_info": {
+          "package_name": "com.example.selling_meter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639657738891-b77kuht4b0nha9e4f2q5fm760c9n6tvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAVBMplKvqMirp9lm5ZhiuCjLnHXgAG1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639657738891-b77kuht4b0nha9e4f2q5fm760c9n6tvu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "639657738891-o2hlvdfpml77rjovnsp1d7k5sidpbn4l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "test"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

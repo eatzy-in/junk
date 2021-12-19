@@ -15,3 +15,9 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # selling_meter_app
+
+# Debug:
+flutter build apk --debug --no-sound-null-safety
+
+https://stackoverflow.com/questions/54557479/flutter-and-google-sign-in-plugin-platformexceptionsign-in-failed-com-google
+color: https://pub.dev/packages/flex_color_scheme#scheme-reference
